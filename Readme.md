@@ -1,4 +1,4 @@
-## Fake News Detector -- Check releases for the script file
+## News Authenticity Classification Mode -- Check releases for the script file
 ML model that detects fake news. Logistic regression and recurrent neural networks are used comparatively, with both acheiving around 98% accuracy. More information is provided below along with the datasets.
 <hr>
 ```python
